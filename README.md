@@ -4,6 +4,22 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>CSS senj</title>
+
+ <style> 
+		img{width: 100%}
+
+		a:link, a:visited {background-color: 
+			#f44336; color: red; padding: 24px; text-align: center; text-decoration: underline;}
+		
+		{background-color: white; font-family:fantasy;} 
+       
+        h1 {color: red;}
+      
+         p { border: 5px solid darkred; text-align: center; padding: 20px; color: blue; font-family:fantasy; font-size:20px 
+       img{width: 100%}
+
+</style>
+
 </head>
 <body bgcolor="skyblue"> 
 	<h1 text align="center" style="color:white;" > <strong> MY FIRST CSS EXAMPLE </h1>
