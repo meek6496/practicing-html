@@ -46,7 +46,8 @@
 	<button onclick=" window.location='https://www.youtube.com/watch?v=HnP1u1RyWbo;'"> nany</button>
 </div>
 
-
+<p <img src="smiley.gif" alt="Smiley face" style="float:left;width:42px;height:42px;">
+> </p>
 
 
 
