@@ -5,8 +5,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>CSS senj</title>
 
- <style> 
-		img{width: 100%}
+ <style>  
+	 body  {background-image: url('img_girl.jpg');
+          background-repeat: no-repeat;
+          background-attachment: fixed;  
+          background-size: cover;}
+		
+	 img{width: 100%}
 
 		a:link, a:visited {background-color: 
 			#f44336; color: red; padding: 24px; text-align: center; text-decoration: underline;}
