@@ -6,7 +6,7 @@
 	<title>CSS senj</title>
 
  <style>  
-	 body  {background-image: url('img_girl.jpg');
+	 body  {background-image: url('https://media.istockphoto.com/id/825383494/photo/business-man-pushing-large-stone-up-to-hill-business-heavy-tasks-and-problems-concept.jpg?s=612x612&w=0&k=20&c=wtqvbQ6OIHitRVDPTtoT_1HKUAOgyqa7YzzTMXqGRaQ=');
           background-repeat: no-repeat;
           background-attachment: fixed;  
           background-size: cover;}
